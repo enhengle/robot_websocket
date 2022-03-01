@@ -1,0 +1,8 @@
+OPENAPI_ROBOT: http://localhost:12138
+PORT: 12138
+
+ROBOT_URL: https://sandbox.api.sgroup.qq.com
+
+BOT_APPID: appId
+BOT_TOKEN: token
+BOT_SECRET: secret
