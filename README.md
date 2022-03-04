@@ -7,8 +7,8 @@
 
 ### 技术方案+使用说明文档
 ```.env
-技术方案：https://www.yuque.com/u12080141/bm1rti/xaaqne
-说明文档：https://www.yuque.com/u12080141/bm1rti/gtc0sy
+技术方案：https://docs.qq.com/doc/DV0J4Ukp6b0xGZmxp
+说明文档：https://docs.qq.com/doc/DV1NSUERGSkNwU3Za
 ```
 
 ### websocket底层技术
